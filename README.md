@@ -1,5 +1,5 @@
-# Dio-Desafio-GitHub--primeiro-Reposit-rio
-Desafio de projeto sobre Git/GitHub
+# Santander-BootCamp
+Aqui ficam minhas pastas sobre as aulas do Santander BootCamp
 Repositório criado para o desafio de Projeto
 
 ## Links Uteis
