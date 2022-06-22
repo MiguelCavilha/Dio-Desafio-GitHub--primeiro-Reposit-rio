@@ -1,6 +1,7 @@
-# Dio-Desafio-GitHub--primeiro-Reposit-rio
-Desafio de projeto sobre Git/GitHub
-Repositório criado para o desafio de Projeto
+# Santander-BootCamp
+Aqui ficam minhas pastas sobre as aulas do Santander BootCamp
+
+Repositório criado para organizar minhas aulas e projetos
 
 ## Links Uteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
